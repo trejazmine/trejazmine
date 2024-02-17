@@ -12,5 +12,5 @@ I've contributed and led the development of practical and educational solutions.
 ![Github](https://img.shields.io/badge/-Github-black?logo=github&logoColor=white&style=flat) 
 
 ## Conctact me here 👇
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white&style=flat)](https://github.com/jazmintrejoperez)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/jazmintrejoperez/)
 ![Gmail](https://img.shields.io/badge/-trejazmine@gmail.com-FC1212?logo=gmail&logoColor=white&style=flat)
