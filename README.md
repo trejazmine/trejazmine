@@ -1,7 +1,8 @@
 ### Hi! I'm Jazmin Trejo
 
 I' m passionate about innovation and technology, mechatronics engineering student and UX designer and front-end developer in training 👩‍💻✨. 
-I have experience in project management, mechanical design in Solidworks and programming in Arduino and JavaScript. I have contributed and led the development of practical and educational solutions. In addition, I am an enthusiast of autonomous learning and seek opportunities to apply my skills in environments that promote innovation and sustainable growth 🌱.
+
+I have experience in project management, mechanical design in Solidworks and programming in Arduino and JavaScript. I have contributed and led the development of practical and educational solutions 🌐. In addition, I am an enthusiast of autonomous learning and seek opportunities to apply my skills in environments that promote innovation and sustainable growth 🌱.
 
 ## Languages & Tools 
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)
