@@ -7,4 +7,4 @@ I've contributed and led the development of practical and educational solutions.
 # Languages & Tools
 
 # Conctact me here 👇
-[![LinkedIn](url_del_icono)](https://www.linkedin.com/in/jazmintrejoperez/)
+[![LinkedIn]([url_del_icono](https://www.google.com/url?sa=i&url=https%3A%2F%2Fpaginasweb.tech%2Fque-es%2Fque-es-linkedin-que-es%2F&psig=AOvVaw34Ovk20uYQfAsm9TeBq7ns&ust=1708296246382000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCNjazMm5s4QDFQAAAAAdAAAAABAE)https://www.google.com/url?sa=i&url=https%3A%2F%2Fpaginasweb.tech%2Fque-es%2Fque-es-linkedin-que-es%2F&psig=AOvVaw34Ovk20uYQfAsm9TeBq7ns&ust=1708296246382000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCNjazMm5s4QDFQAAAAAdAAAAABAE)](https://www.linkedin.com/in/jazmintrejoperez/)
